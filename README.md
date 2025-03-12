@@ -1,6 +1,6 @@
 # GSE65194 HER2 & TNBC Breast Cancer Analysis
 
-## About
+## About:
 
 This project focuses on analyzing HER2+ and Triple-Negative Breast Cancer (TNBC) gene expression data using the GSE65194 dataset. It involves differential expression analysis (DEA), identification of key biomarkers, pathway enrichment analysis and machine learning models for classification. The goal is to uncover potential therapeutic targets and gain insights into drug resistance mechanisms in these aggressive breast cancer subtypes.
 
